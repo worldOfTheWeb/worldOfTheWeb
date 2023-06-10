@@ -21,7 +21,8 @@ You can shoot me an email at [tarangkr12@gmail.com](mailto:tarangkr12@gmail.com)
   - [Udemy: Pandas Certification](https://drive.google.com/file/d/1YYIMGJ68crhrxuL2WfcGNMfSiLrb9E0B/view?usp=drive_link)
 
 - 💪 This is where I write, code and solve problems:
-<a href="https://leetcode.com/aswin26barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/TarangKr0608/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TarangKr0608" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/skullcrusher1131?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Tarang Kr" height="30" width="40" /></a>
 &nbsp;

@@ -9,7 +9,7 @@ You can shoot me an email at [tarangkr12@gmail.com](mailto:tarangkr12@gmail.com)
 
 - 😄 My pronouns are: He/His/Him
 - 🧑🏻‍🏫 I am currenly learning
-   - Exporing Modern Data stack (dbt, Airbyte, Databricks)
+   - Exploring Modern Data stack 
    - Azure Cloud and GCP
    - How to architectect better data system.
 - 🔭 I’m currently working at TATA Consultancy Services
